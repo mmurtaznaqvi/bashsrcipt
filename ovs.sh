@@ -1,6 +1,5 @@
 !#/bin/bash
-# Install openvswitch Ubuntu 14.04.3
-# Author: Oleg Slavkin (oleg@slavkin.info)
+
 
 echo "-------------------------------"
 echo "Step 1. Install git package"
